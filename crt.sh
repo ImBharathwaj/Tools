@@ -1,7 +1,4 @@
 #!/bin/bash
-#
-# Author: Tyler Wrightson
-# Date: 8/22/2017
 
 TARGET="$1"
 DIR="$PWD/crt"
